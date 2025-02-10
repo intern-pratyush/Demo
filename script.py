@@ -59,3 +59,6 @@ print(df)
 
 # Save to CSV (optional)
 df.to_csv("instances_list.csv", index=False)
+
+#######
+print("Script execution completed.")
